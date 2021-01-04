@@ -1,3 +1,4 @@
-# je suis un tex
+# je suis un text
 # je suis une nouvelle phrase
-# je suis un nouveau texte
+# je suis un nouveau text
+# je suis un autre texte
